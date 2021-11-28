@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,iBAGE,qBAAsB,CACtB,QAAS,CACT,SAAU,CACV,WAAY,CACZ,YAAa,CACb,kDACF","file":"main.b33edd03.chunk.css","sourcesContent":["*,\n*::before,\n*::after {\n  box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n  border: none;\n  outline: none;\n  font-family: 'Lab Grotesque', 'Open Sans', sans-serif;\n}"]}
